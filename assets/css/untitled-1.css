@@ -1,0 +1,37 @@
+#home-logo {
+  width: 350px;
+  border-radius: 15px;
+}
+
+@media (max-width: 450px) {
+  #home-logo {
+    width: 85%;
+    border-radius: 15px;
+  }
+}
+
+#home-head {
+  padding: 0px;
+}
+
+@media (max-width: 588px) {
+  #home-head {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+#home-heading {
+  font-size: 39px;
+  margin-bottom: 10px;
+  font-family: Rubik, sans-serif;
+}
+
+@media (max-width: 387px) {
+  #home-heading {
+    font-size: 29px;
+    margin-bottom: 10px;
+    font-family: Rubik, sans-serif;
+  }
+}
+
