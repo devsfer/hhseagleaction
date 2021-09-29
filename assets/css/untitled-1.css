@@ -35,3 +35,44 @@
   }
 }
 
+#ep1-row {
+  background: rgba(109,109,109,0.89);
+  border-radius: 15px;
+}
+
+@media (max-width: 500px) {
+  #ep1-ds-column {
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+  #listen-ap-footer {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  #listen-spot {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  #listen-google {
+    margin-bottom: 30px;
+  }
+}
+
+#navbarResponsive {
+  background-color: transparent;
+}
+
+@media (max-width: 767px) {
+  #navbarResponsive {
+    background-color: black;
+    padding: 20px;
+    border-radius: 15px;
+  }
+}
+
