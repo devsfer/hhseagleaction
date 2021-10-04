@@ -1,0 +1,6 @@
+user-agent: *
+Disallow: /record
+Disallow: /pilot/download
+Disallow: /steel-feel-an-educated-guess/download
+
+Sitemap: https://hhseagleaction.com/sitemap.xml
