@@ -18,3 +18,70 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+#downloadBTN {
+  background: rgba(255,255,255,0.93);
+  border-width: 0px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+@media (max-width: 506px) {
+  #downloadBTN {
+    background: rgba(255,255,255,0.93);
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-top: 15px;
+  }
+}
+
+#shownotesBTN {
+  background: rgba(255,255,255,0.93);
+  border-width: 0px;
+  border-radius: 10px;
+  margin-right: 15px;
+}
+
+@media (max-width: 506px) {
+  #shownotesBTN {
+    background: rgba(255,255,255,0.93);
+    border-width: 0px;
+    border-radius: 10px;
+    margin-right: 15px;
+    margin-top: 15px;
+  }
+}
+
+#shareBTN {
+  background: rgba(255,255,255,0.93);
+  border-width: 0px;
+  border-radius: 100px;
+  margin-right: 15px;
+}
+
+@media (max-width: 503px) {
+  #shareBTN {
+    background: rgba(255,255,255,0.93);
+    border-width: 0px;
+    border-radius: 100px;
+    margin-right: 15px;
+    margin-top: 15px;
+  }
+}
+
+#rowShare {
+  margin-right: 25px;
+  margin-left: 25px;
+  margin-bottom: 25px;
+  margin-top: 15px;
+}
+
+@media (max-width: 506px) {
+  #rowShare {
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+  }
+}
+
