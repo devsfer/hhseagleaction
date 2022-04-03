@@ -1,6 +1,6 @@
 user-agent: *
+Disallow: /homecoming/download
 Disallow: /record
-Disallow: /senior-night/download
 Disallow: /pilot/download
 Disallow: /steel-feel-an-educated-guess/download
 
